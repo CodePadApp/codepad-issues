@@ -1,2 +1,2 @@
 # CodePad Issues
-Bug tracker for codepad.site
+Bug tracker for [codepad.site](https://codepad.site)
