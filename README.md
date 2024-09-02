@@ -1,5 +1,5 @@
 # CodePad Issues
-This is the bug / feature tracker for [CodePad](https://codepad.site).
+This is the bug / feature tracker for [CodePad](https://codepad.app).
 
 We need your help with squashing bugs, so come and help us find some! 🐛🐜 In addition, if you have any suggestions for features, please add them here.
 
