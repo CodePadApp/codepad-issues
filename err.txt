@@ -1,0 +1,2 @@
+Codepad's python packager is not quite working:
+Even when I add a module to the packages tab in settings, I still get a ModuleNotFound error.
